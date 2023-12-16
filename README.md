@@ -5,3 +5,7 @@ Playwright is not fully supported on Fedora Linux.
 
 `xvfb-run npx playwright test --ui` 
 If a browser window doesn't open, check VSCode terminal PORTS tab for any new open ports
+
+
+Didn't manage to get `npx playwright codegen` to work. 
+Workaround - https://chromewebstore.google.com/detail/playwright-crx/jambeljnbnfbkcpnoiaedcabbgmnnlcd
